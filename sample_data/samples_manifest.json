@@ -1,0 +1,66 @@
+[
+  {
+    "filename": "sample_01_retail_ecommerce_50_50.csv",
+    "scenario": "ECOMMERCE",
+    "total_rows": 16,
+    "normal_count": 8,
+    "fraud_count": 8,
+    "url": "/samples/sample_01_retail_ecommerce_50_50.csv"
+  },
+  {
+    "filename": "sample_02_cross_border_travel_50_50.csv",
+    "scenario": "TRAVEL",
+    "total_rows": 12,
+    "normal_count": 6,
+    "fraud_count": 6,
+    "url": "/samples/sample_02_cross_border_travel_50_50.csv"
+  },
+  {
+    "filename": "sample_03_atm_cash_withdrawals_50_50.csv",
+    "scenario": "ATM_CASH",
+    "total_rows": 20,
+    "normal_count": 10,
+    "fraud_count": 10,
+    "url": "/samples/sample_03_atm_cash_withdrawals_50_50.csv"
+  },
+  {
+    "filename": "sample_04_digital_wallets_p2p_50_50.csv",
+    "scenario": "WALLET",
+    "total_rows": 16,
+    "normal_count": 8,
+    "fraud_count": 8,
+    "url": "/samples/sample_04_digital_wallets_p2p_50_50.csv"
+  },
+  {
+    "filename": "sample_05_luxury_goods_high_ticket_50_50.csv",
+    "scenario": "LUXURY",
+    "total_rows": 14,
+    "normal_count": 7,
+    "fraud_count": 7,
+    "url": "/samples/sample_05_luxury_goods_high_ticket_50_50.csv"
+  },
+  {
+    "filename": "sample_06_gas_and_convenience_50_50.csv",
+    "scenario": "GAS_STATION",
+    "total_rows": 20,
+    "normal_count": 10,
+    "fraud_count": 10,
+    "url": "/samples/sample_06_gas_and_convenience_50_50.csv"
+  },
+  {
+    "filename": "sample_07_entertainment_nightlife_50_50.csv",
+    "scenario": "NIGHTLIFE",
+    "total_rows": 16,
+    "normal_count": 8,
+    "fraud_count": 8,
+    "url": "/samples/sample_07_entertainment_nightlife_50_50.csv"
+  },
+  {
+    "filename": "sample_08_global_mixed_stream_50_50.csv",
+    "scenario": "MIXED",
+    "total_rows": 24,
+    "normal_count": 12,
+    "fraud_count": 12,
+    "url": "/samples/sample_08_global_mixed_stream_50_50.csv"
+  }
+]
